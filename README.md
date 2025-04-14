@@ -56,5 +56,6 @@ npm start
 ChatMe — Connect instantly, chat effortlessly.
 
 🧠 System Design Overview
+![ChatGPT Image Apr 15, 2025, 03_26_59 AM](https://github.com/user-attachments/assets/244b1c1a-5ed8-46df-99b4-d3e53557f0a4)
 
 
