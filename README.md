@@ -1,4 +1,4 @@
-![ChatGPT Image Apr 15, 2025, 03_26_59 AM](https://github.com/user-attachments/assets/66688b43-0199-4256-90ed-9c0b609d2d90)✨ ChatMe — Full Stack Realtime Chat App ✨
+✨ ChatMe — Full Stack Realtime Chat App ✨
 A powerful real-time chat application built using modern technologies, designed for seamless communication and smooth user experience.
 
 🚀 Tech Stack
